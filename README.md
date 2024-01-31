@@ -8,3 +8,5 @@
 
 [Shoe Dog _by Phil Knight_](./Books/shoe-dog.md)
 
+[Hidden Potential _by Adam Grant_](./Books/hidden-potential.md)
+
