@@ -10,5 +10,5 @@
 
 [Hidden Potential _by Adam Grant_](./Books/hidden-potential.md)
 
-[The Fabric of Reality ) _by David Deutsch_](./Books/fabric-of-reality.md)
+[The Fabric of Reality _by David Deutsch_](./Books/fabric-of-reality.md)
 
