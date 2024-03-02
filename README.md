@@ -1,4 +1,6 @@
 ### About
+
+I am a software professional having played various roles - Developer, Tech Lead, Engineering Manager, Enterprise Architect.
 ### Blog
 ### Books
 
