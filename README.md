@@ -12,3 +12,5 @@
 
 [The Fabric of Reality _by David Deutsch_](./Books/fabric-of-reality.md)
 
+[Living with the Himalayan Masters _by Swami Rama_](./Books/living-with-himalayan-masters.md)
+
