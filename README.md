@@ -3,7 +3,7 @@
 I am a software professional having played various roles - Developer, Tech Lead, Engineering Manager, Enterprise Architect.
 ### Blog
 ### Quantum math
-[Vector spaces](./quantum-math/vector-spaces.md)
+[Vector spaces](./quantum-math/vector-space.md)
 
 ### Books
 
