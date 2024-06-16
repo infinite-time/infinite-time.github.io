@@ -2,6 +2,9 @@
 
 I am a software professional having played various roles - Developer, Tech Lead, Engineering Manager, Enterprise Architect.
 ### Blog
+### Quantum math
+[Vector spaces](./quantum-math/vector-spaces.md)
+
 ### Books
 
 [Same As Ever: Timeless Lessons on Risk, Opportunity and Living a Good Life _by Morgan Housel_](./Books/same-as-ever.md)
