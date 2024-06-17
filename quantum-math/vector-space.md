@@ -2,7 +2,7 @@
 
 In a vector space, for any vectors u, v, w and scalars a, b, we have-
 
-- $'u + v'$ is also a vector
+- $`u + v`$ also a vector 
 - $au$ is alao a vector
 - $u + (v + w) = (u + v) + w
 - $u + v = v + u
