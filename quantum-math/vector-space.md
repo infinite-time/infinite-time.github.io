@@ -2,10 +2,8 @@
 
 In a vector space, for any vectors u, v, w and scalars a, b, we have-
 
-$`[x]_y a_{b}`$
-
 - $u + v$ is also a vector 
-- $au$ is alao a vector
+- $au$ is also a vector
 - $u + (v + w) = (u + v) + w$
 - $u + v = v + u$
 - $0$ vector exists
