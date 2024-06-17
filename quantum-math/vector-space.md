@@ -2,6 +2,8 @@
 
 In a vector space, for any vectors u, v, w and scalars a, b, we have-
 
+$`[x]_y a_{b}`$
+
 - $u + v$ is also a vector 
 - $au$ is alao a vector
 - $u + (v + w) = (u + v) + w$
