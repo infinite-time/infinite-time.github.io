@@ -1,8 +1,3 @@
 name: false
 title: false
-markdown: kramdown
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter_opts:
-    disable: true
 
