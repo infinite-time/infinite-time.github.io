@@ -2,16 +2,7 @@
 
 In a vector space, for any vectors u, v, w and scalars a, b, we have-
 
-- $u + v$ is also a vector 
-- $au$ is also a vector
-- $u + (v + w) = (u + v) + w$
-- $u + v = v + u$
-- $0$ vector exists
-- $-u$ exists
-- $s(bu) = (ab)u$
-- $1u = u$
-- $a(u + v) = au + av$
-- $(a + b)u = au + bu$
+
 
 Vector $\vec{\psi}^{\}$ is represented as $\ket{\psi}$ in quantum space.
 
