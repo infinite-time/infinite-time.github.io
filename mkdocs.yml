@@ -1,0 +1,11 @@
+site_name: Infinite Time
+nav:
+  - About: about.md
+  - Books: books.md
+  - Software Engineering: software.md
+  - Quantum Computing: quantum.md
+  - Photography: photography.md
+#theme: bootstrap4
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js

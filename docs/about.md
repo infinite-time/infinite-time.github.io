@@ -1,0 +1,1 @@
+I am a software engineer having played various roles - Developer, Tech Lead, Engineering Manager, Enterprise Architect.
