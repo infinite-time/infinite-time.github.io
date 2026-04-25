@@ -3,7 +3,6 @@ layout: post
 title: "Test Post"
 date: 2026-04-25
 ---
-
 These learnings are based on Dwarkesh's [podcast episode](https://www.youtube.com/watch?v=Hrbq66XqtCo) with Jensen Huang.
 
 ## Part-1
@@ -53,9 +52,8 @@ Nvidia's latest SEC filings show $100  Billion purchase commitments with foundri
 - The processing speed of the Nvidia GPUs combined with the number of GPUs they are delivering is tripling year-over-year. This can be simplified as tripling the amount of FLOPS delivered.
 *FLOPs delivered = factor of (processing speed of GPU, number of GPUs delivered)*
 
-Consider this-
 - Nvidia is-
-  - biggest customer on TSMCs [N3](#n3) node
+  - the biggest customer on TSMCs [N3](#n3) node
   - one of the biggest customers on [N2](#n2) node
 - AI will be 86% of N3 in 2027
 
@@ -100,12 +98,18 @@ Increasing manufacturing, building AI factories imply that energy consumption wi
 - GPUs can be operated by anyone and are available on all Cloud providers.
 
 #### Growth in AI
+- AI technology is growing very fast. This needs accelerated parallel computing provided by Nvidia GPUs. Though GPUs are general purpose, as of now the mian driver of revenue is AI.
+- TPUs are good for doing matrix multiplications.
+- GPUs are more flexible and good when there are lots of branching and irregular memory accesses.
+- the main use case for compute now is matrix multiplications in AI and AI is growing very fast. Doesn't it fit well with what TPU is built for?
+
+
 
 
 ### Key concepts
 
 <a name="gds-2"></a>
-GDS2 - is the binary file format for capturing and exchanging the physical layout description of IC (integrated circuit).
+**GDS2** - is the binary file format for capturing and exchanging the physical layout description of IC (integrated circuit).
 
 <a name="hbm"></a>
 HBM - High Bandwidth Memory is a memory interface for 3D stacked Synchronous Dynamic Random Access Memory.
@@ -139,7 +143,6 @@ ASIC - Application Specific Integrated Circuit is an integrated chip customized 
 
 <a name="cuda"></a>
 CUDA - Compute Unified Device Architecture is a platform and programming model that enables one to use GPUs for general purpose computing.
-
 
 
 
