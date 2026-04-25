@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "My First Post"
+title: "Test Post"
+date: 2026-04-25
 ---
 
-This is a simple equation:
+Hello world from my blog.
 
 $$
 E = mc^2
