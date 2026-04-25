@@ -3,6 +3,9 @@ layout: post
 title: "Test Post"
 date: 2026-04-25
 ---
+$$
+E = mc^2
+$$
 These learnings are based on Dwarkesh's [podcast episode](https://www.youtube.com/watch?v=Hrbq66XqtCo) with Jensen Huang.
 
 ## Part-1
